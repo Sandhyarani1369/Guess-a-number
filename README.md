@@ -18,10 +18,13 @@ o The random module is imported to generate a random number for the game.
 guessed:
 # User Input:
 ▪ The program prompts the user to input a number.
+
 ▪ Input is validated to ensure it's an integer within the range of 1–100.
+
 ▪ Feedback:
 ▪ If the guess is too low, the user is informed with the message "Too low! Try
 again."
+
 ▪ If the guess is too high, the message "Too high! Try again." is displayed.
 # Success:
 ▪ When the correct number is guessed, the program congratulates the user and
